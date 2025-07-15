@@ -14,10 +14,6 @@ A simple drawing app built with HTML5 Canvas and JavaScript.
 - Live brush preview
 - Works on mobile
 
-## Live Demo
-
-[🔗 View the App](https://kenthexe.github.io/JS-Paint-App)
-
 ## How to Use
 
 1. Open the app in your browser
