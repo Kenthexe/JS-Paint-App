@@ -16,7 +16,7 @@ A simple drawing app built with HTML5 Canvas and JavaScript.
 
 ## Live Demo
 
-[🔗 View the App](https://kenthexe.github.io/js-paint-app)
+[🔗 View the App](https://kenthexe.github.io/JS-Paint-App)
 
 ## How to Use
 
